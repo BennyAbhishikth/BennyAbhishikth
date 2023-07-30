@@ -36,5 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bennyabhishikth&show_icons=true&locale=en&layout=compact" alt="bennyabhishikth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bennyabhishikth&show_icons=true&locale=en" alt="bennyabhishikth" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bennyabhishikth&show_icons=truetheme=radical&locale=en" alt="bennyabhishikth" /></p>
