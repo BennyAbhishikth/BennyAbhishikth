@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Benny Abhishikth](https://github.com/BennyAbhishikth/BennyAbhishikth/assets/104818358/a894bc47-bc47-40ec-bc3c-ae1facaaae6f)
+
+
 <!--
 **BennyAbhishikth/BennyAbhishikth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
