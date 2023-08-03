@@ -8,10 +8,10 @@
 
 <h1 align="center">Hi 👋, I'm Benny Abhishikth Mamuduri</h1>
 <h3 align="center">An aspiring Computer Science Student where I can contribute my analytical skills and knowledge acquired by pursuing my Bachelor's degree in Computer Science. Looking for a dynamic and progressive company where my skills are utilized in the maximum way possible.</h3>
+</hr>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bennyabhishikth&label=Profile%20views&color=0e75b6&style=flat" alt="bennyabhishikth" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bennyabhishikth&label=Profile%20views&color=0e75b6&style=flat" alt="bennyabhishikth" /> </p>
-
-
+<h3 align="center">DCODER -  Do Constantly Overcome Difficulties to Escape Refactoring</h3>
 
 - 🔭 I’m currently working on **SMAD with NLP and JDBC**
 
@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **Learning is Fun**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
